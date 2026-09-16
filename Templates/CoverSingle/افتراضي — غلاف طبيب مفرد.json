@@ -1,0 +1,58 @@
+{
+  "Name": "افتراضي — غلاف طبيب مفرد",
+  "Category": 8,
+  "PdfFile": "",
+  "PageWidthMm": 145,
+  "PageHeightMm": 270,
+  "OffsetXMm": 0,
+  "OffsetYMm": 0,
+  "LogoFile": "",
+  "LogoXMm": 238.3,
+  "LogoYMm": 11.7,
+  "LogoWidthMm": 47.8,
+  "LogoHeightMm": 17.8,
+  "PrintArtwork": false,
+  "Fields": [
+    {
+      "Token": "Name",
+      "StaticText": "",
+      "Slot": 2,
+      "XMm": 35,
+      "YMm": 195.5,
+      "WidthMm": 50,
+      "FontName": "Sakkal Majalla",
+      "FontSize": 9.5,
+      "Bold": true,
+      "Align": 1,
+      "Rotation": 0
+    },
+    {
+      "Token": "Major",
+      "StaticText": "",
+      "Slot": 2,
+      "XMm": 35,
+      "YMm": 203,
+      "WidthMm": 50,
+      "FontName": "Sakkal Majalla",
+      "FontSize": 9,
+      "Bold": true,
+      "Align": 1,
+      "Rotation": 0
+    },
+    {
+      "Token": "NotebookNumber",
+      "StaticText": "",
+      "Slot": 2,
+      "XMm": 35,
+      "YMm": 226.5,
+      "WidthMm": 50,
+      "FontName": "Sakkal Majalla",
+      "FontSize": 11,
+      "Bold": false,
+      "Align": 1,
+      "Rotation": 0
+    }
+  ],
+  "Table": null,
+  "TwoUp": false
+}

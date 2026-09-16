@@ -1,0 +1,78 @@
+{
+  "Name": "افتراضي — سند التسليم",
+  "Category": 6,
+  "PdfFile": "",
+  "PageWidthMm": 297,
+  "PageHeightMm": 210,
+  "OffsetXMm": 0,
+  "OffsetYMm": 0,
+  "LogoFile": "logo.pdf",
+  "LogoXMm": 238.3,
+  "LogoYMm": 10,
+  "LogoWidthMm": 47.8,
+  "LogoHeightMm": 23.9,
+  "PrintArtwork": false,
+  "Fields": [],
+  "Table": {
+    "HeaderYMm": 50,
+    "HeaderHeightMm": 8,
+    "DataTopMm": 58,
+    "DataBottomMm": 160,
+    "NaturalRowHeightMm": 8,
+    "MinRowHeightMm": 4.5,
+    "TotalsHeightMm": 7,
+    "TotalsSplitXMm": 70,
+    "TotalsLabel": "مجموع عدد الدفاتر",
+    "LeftEdgeMm": 12,
+    "RightEdgeMm": 287,
+    "FontName": "Sakkal Majalla",
+    "FontSize": 12.5,
+    "Columns": [
+      {
+        "Token": "RowNumber",
+        "Header": "التسلسل",
+        "X0Mm": 268,
+        "X1Mm": 287,
+        "Align": 1
+      },
+      {
+        "Token": "EntityName",
+        "Header": "اسم الدكتور/المستشفى",
+        "X0Mm": 192,
+        "X1Mm": 268,
+        "Align": 0
+      },
+      {
+        "Token": "Phones",
+        "Header": "رقم الهاتف",
+        "X0Mm": 86,
+        "X1Mm": 192,
+        "Align": 0
+      },
+      {
+        "Token": "Notebooks",
+        "Header": "عدد الدفاتر",
+        "X0Mm": 64,
+        "X1Mm": 86,
+        "Align": 1
+      },
+      {
+        "Token": "StartSerial",
+        "Header": "من رقم",
+        "X0Mm": 38,
+        "X1Mm": 64,
+        "Align": 1
+      },
+      {
+        "Token": "EndSerial",
+        "Header": "إلى رقم",
+        "X0Mm": 12,
+        "X1Mm": 38,
+        "Align": 1
+      }
+    ],
+    "NaturalMaxRows": 12,
+    "AbsoluteMaxRows": 22
+  },
+  "TwoUp": false
+}

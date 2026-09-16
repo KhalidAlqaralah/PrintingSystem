@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Everest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95BDB8A5-642C-8741-C960-6D1B51F08747}|src\\Everest.App\\Everest.App.csproj|c:\\everest\\src\\everest.app\\forms\\orderspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95BDB8A5-642C-8741-C960-6D1B51F08747}|src\\Everest.App\\Everest.App.csproj|solutionrelative:src\\everest.app\\forms\\orderspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BDB8A5-642C-8741-C960-6D1B51F08747}|src\\Everest.App\\Everest.App.csproj|c:\\everest\\src\\everest.app\\data\\entityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BDB8A5-642C-8741-C960-6D1B51F08747}|src\\Everest.App\\Everest.App.csproj|solutionrelative:src\\everest.app\\data\\entityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersPage.cs [Design]",
+              "DocumentMoniker": "C:\\Everest\\src\\Everest.App\\Forms\\OrdersPage.cs",
+              "RelativeDocumentMoniker": "src\\Everest.App\\Forms\\OrdersPage.cs",
+              "ToolTip": "C:\\Everest\\src\\Everest.App\\Forms\\OrdersPage.cs [Design]",
+              "RelativeToolTip": "src\\Everest.App\\Forms\\OrdersPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T16:40:32.271Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntityRepository.cs",
+              "DocumentMoniker": "C:\\Everest\\src\\Everest.App\\Data\\EntityRepository.cs",
+              "RelativeDocumentMoniker": "src\\Everest.App\\Data\\EntityRepository.cs",
+              "ToolTip": "C:\\Everest\\src\\Everest.App\\Data\\EntityRepository.cs",
+              "RelativeToolTip": "src\\Everest.App\\Data\\EntityRepository.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAkwHsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T15:16:45.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
